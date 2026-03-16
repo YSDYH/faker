@@ -9,6 +9,7 @@ import cat from './cat';
 import cow from './cow';
 import dog from './dog';
 import fish from './fish';
+import horse from './horse';
 
 const animal: AnimalDefinition = {
   bear,
@@ -17,6 +18,7 @@ const animal: AnimalDefinition = {
   cow,
   dog,
   fish,
+  horse,
 };
 
 export default animal;
